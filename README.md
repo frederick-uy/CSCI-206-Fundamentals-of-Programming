@@ -1,4 +1,4 @@
-<b><h6> Computer Science at Claflin University </h6></b>
+<b>Computer Science at Claflin University </b>
 
 <b>CSCI 206</b> - Fundamentals of Programming taught by Ms. Natasha Delahunt 
 	<p>*This course aims to teach students about the syntax, semantics, and application of an object-oriented programming language. Topics include memory, variables, data types, assignments and initializations, operators, strings, control flow, looping, input/output, arrays, and recursion. </p>
